@@ -16,7 +16,20 @@ Descrição: Um aplicativo web onde os usuários podem criar, editar, excluir e 
 
 ## Estrutura de Pastas e Arquivos
 
-![Estrutura de Arquivos](Documentacao/Estrutura_de_Arquivos.JPG)
+    Dia-a-Dia-QA
+    ├── Documentacao
+    │   ├── Plano_de_Fluxo_de_Trabalho_e_Ciclo_de_Vida_do_Bug.pdf
+    │   ├── User_Stories.pdf
+    │   ├── Documentos_de_Teste.pdf
+    │   └── Mind_Map_User_Story_1.png
+    ├── Testes
+    │   ├── Casos_de_Teste_Step_by_Step
+    │   │   ├── Caso_de_Teste_1.md
+    │   │   └── Caso_de_Teste_2.md
+    │   └── Casos_de_Teste_BDD
+    │       ├── Caso_de_Teste_1.feature
+    │       └── Caso_de_Teste_2.feature
+    └── README.md
 
 ### Documentacao
 
@@ -40,3 +53,6 @@ Descrição: Um aplicativo web onde os usuários podem criar, editar, excluir e 
 - **Caso_de_Teste_2.feature:** Cadastro de Usuário - Senhas Não Coincidem.
 
 README.md: Arquivo markdown com a descrição geral do projeto e instruções.
+
+
+[def]: Documentacao/Estrutura_de_Arquivos.JPG
